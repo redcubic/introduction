@@ -1,6 +1,7 @@
 # introduction
 Red Cubic is a decentralized crypto ecosystem. Red Cubic provides the foundational building layers for a new digital economy with following products: DeFi, LaunchPad, GameFi, NFT, Chain and connecting crypto to the real world.
 Red Cubic is on a mission to build a connected world where everyday people will own their data, devices, and identity. Harnessing the power of blockchain, IoTeX will unlock the potential of smart devices/data and empower a new generation of real world Dapps and digital assets.
+
 Product :
 1. Cubic Swap
 2. Cubic Wallet
